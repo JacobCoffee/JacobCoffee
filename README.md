@@ -8,14 +8,14 @@
 
 * 🌱   Currently learning Math and Java.
 * 👯   Looking to collaborate with other students.
-* 🧐   Interested in DevOps, AI (ML, NLP, Medical)
-* 💼   IT Infrastructure at Labcorp.
+* 🧐   Interested in DevOps, Cloud, and AI (ML, NLP, Medical)
+* 💼   IT Infrastructure at [Labcorp][work].
 * 🎓   Studying Computer Science at Wallace State and [Auburn University][school]
 * 📚   Reading [Leaders Eat Last][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily OS.
 * ⛵   Building a community at my campus' for open source collaborations.
-* 🎉   Student Membership of ACM / IEEE.
-* ⚡   Fun fact: I maintain an uncomfortably large on-prem homelab.
+* 🎉   Student Membership of [ACM][acm] / [IEEE][ieee].
+* ⚡   Fun fact: I maintain an uncomfortably large on-prem [homelab][homelab].
 
 ## Current Languages and Tools:
 
@@ -55,6 +55,7 @@
 
 <br />
 <br />
+<br />
 
 <p align="center">
 <a href= "mailto:jacobcoffee@acm.org"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
@@ -71,3 +72,7 @@
 [book]: https://www.goodreads.com/book/show/16144853-leaders-eat-last
 [os]: https://pop.system76.com/
 [school]: http://bulletin.auburn.edu/undergraduate/samuelginncollegeofengineering/departmentofcomputerscienceandsoftwareengineering/
+[work]: https://www.labcorp.com/
+[ieee]: mailto:jcoffee@ieee.org
+[acm]: mailto:jacobcoffee@acm.org
+[homelab]: https://www.reddit.com/r/homelab
