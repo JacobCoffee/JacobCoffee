@@ -8,7 +8,7 @@
 
 * 🌱   Currently learning Math and Java.
 * 👯   Looking to collaborate with other students.
-* 🧐   Interested in DevOps, AI (ML, NLP, Medical), and possibly Full Stack Engineering with a starting focus on Back End.
+* 🧐   Interested in DevOps, AI (ML, NLP, Medical)
 * 💼   IT Infrastructure at Labcorp.
 * 🎓   Studying Computer Science at Wallace State and [Auburn University][school]
 * 📚   Reading [Leaders Eat Last][book].
