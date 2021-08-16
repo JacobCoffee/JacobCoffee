@@ -1,4 +1,4 @@
-### Hello there, I'm [Jacob][github] 👋
+### Hello there, I'm [Jacob][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=Website%20(Maintenance)%20&style=for-the-badge&url=https%3A%2F%2Fscriptr.dev)](http://scriptr.dev)
 [![LinkedIn](https://img.shields.io/website?color=blue&label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/JacobCoffee/)
