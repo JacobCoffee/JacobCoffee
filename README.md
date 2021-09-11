@@ -58,6 +58,7 @@
 <br />
 <br />
 <br />
+<br />
 
 <p align="center">
 <a href= "mailto:jacobcoffee@acm.org"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
