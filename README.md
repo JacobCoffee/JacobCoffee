@@ -1,6 +1,6 @@
 ### Hello there, I'm [Jacob][linkedin] 👋
 
-[![Website](https://img.shields.io/website?label=Website%20(Maintenance)%20&style=for-the-badge&url=https%3A%2F%2Fscriptr.dev)](http://scriptr.dev)
+[![Website](https://img.shields.io/website?label=Website%20%20&style=for-the-badge&url=https%3A%2F%2Fscriptr.dev)](http://scriptr.dev)
 [![LinkedIn](https://img.shields.io/website?color=blue&label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/JacobCoffee/)
 [![Discord](https://img.shields.io/discord/334891772696330241?color=5865F2&label=Discord%20-%20Find%20Me%20Here&logo=Discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/cscareerhub)
 
@@ -36,7 +36,7 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 
 <br />
-
+<br />
 ## Language and Tools to Learn Soon:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
