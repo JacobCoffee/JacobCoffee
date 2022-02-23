@@ -6,10 +6,10 @@
 
 ## I'm a Father, Student, and Developer (and future Github Campus Expert)!
 
-* 🌱   Currently learning Math and Java.
+* 🌱   Currently learning Math, Python, and Java.
 * 👯   Looking to collaborate with other students.
 * 🧐   Interested in DevOps, Cloud, and AI (ML, NLP, Medical)
-* 💼   IT Infrastructure at [Labcorp][work].
+* 💼   Sr. Systems Administrator - Dev Ops & System Administration @ [O'Reilly][work].
 * 🎓   Studying Computer Science at Wallace State and [Auburn University][school]
 * 📚   Reading [Leaders Eat Last][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily OS.
@@ -75,7 +75,7 @@
 [book]: https://www.goodreads.com/book/show/16144853-leaders-eat-last
 [os]: https://pop.system76.com/
 [school]: http://bulletin.auburn.edu/undergraduate/samuelginncollegeofengineering/departmentofcomputerscienceandsoftwareengineering/
-[work]: https://www.labcorp.com/
+[work]: https://corporate.oreillyauto.com/
 [ieee]: mailto:jcoffee@ieee.org
 [acm]: mailto:jacobcoffee@acm.org
 [homelab]: https://www.reddit.com/r/homelab
