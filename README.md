@@ -6,14 +6,13 @@
 
 ## I'm a Father, Student, and Developer!
 
-* 🌱   Currently working with Python, Bash.
-* 👯   Looking to collaborate with other students.
-* 🧐   Interested in DevOps, Automation, Cloud, and AI (ML, Medical)
+* 🌱   Currently working with Python, Javascript, Rust, Bash.
+* 👯   Looking to collaborate with other developers.
+* 🧐   Interested in DevOps, Automation, Cloud
 * 💼   Sr. Linux Systems Administrator - Dev Ops & System Administration @ [O'Reilly][work].
 * 🎓   Studying Computer Science at Wallace State and [Auburn University][school]
 * 📚   Reading [Leaders Eat Last][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily-driver OS.
-* ⛵   Building a community at my campus' for open source collaborations.
 * 🎉   Student Membership of [ACM][acm] / [IEEE][ieee].
 * ⚡   Fun fact: I maintain an uncomfortably large on-prem [homelab][homelab].
 
