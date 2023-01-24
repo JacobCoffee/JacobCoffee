@@ -19,7 +19,7 @@
 ## Current Languages and Tools:
 <p align="center">
   <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,docker,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,nginx,vscode,regex,js,git,github,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,docker,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,regex,js,git,github,html,css&theme=dark" />
 <img alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
   </a>
 </p>
