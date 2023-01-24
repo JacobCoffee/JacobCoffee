@@ -17,20 +17,21 @@
 * ⚡   Fun fact: I maintain an uncomfortably large on-prem [homelab][homelab].
 
 ## Current Languages and Tools:
-[![SkillsCurrent](https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,docker,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,nginx,vscode,regex,js,git,github,html,css&theme=dark)](https://skillicons.dev)
-
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-
-<br />
-<br />
-<br />
+<p align="center">
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,docker,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,nginx,vscode,regex,js,git,github,html,css&theme=dark" />
+<img alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+  </a>
+</p>
 
 ## Language and Tools to Learn Soon:
-[![SkillsLearning](https://skillicons.dev/icons?i=kubernetes,ts,react,go,rust,nodejs,mongodb&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=kubernetes,ts,react,go,rust,nodejs,mongodb&theme=dark" />
 
-<br />
-<br />
-<br />
+  </a>
+</p>
+
 <br />
 
 <p align="center">
@@ -52,5 +53,3 @@
 [ieee]: mailto:jcoffee@ieee.org
 [acm]: mailto:jacobcoffee@acm.org
 [homelab]: https://www.reddit.com/r/homelab
-[skillscurrent]: https://scriptr.dev/cv/
-[skillslearning]: https://scriptr.dev/cv/
