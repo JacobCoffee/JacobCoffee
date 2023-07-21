@@ -1,0 +1,232 @@
+%-------------------------
+% Resume in Latex
+% Author : Jacob Coffee
+% Template : Jake 
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Jacob Coffee} \\ \vspace{1pt}
+    \href{tel:205-573-8275}{\underline{205-573-8275}} $|$ 
+    \href{mailto:jacob@scriptr.dev}{\underline{jacob@scriptr.dev}} $|$ 
+    \href{https://www.linkedin.com/in/jacobcoffee/}{\underline{linkedin.com/in/JacobCoffee}} $|$
+    \href{https://github.com/JacobCoffee}{\underline{github.com/JacobCoffee}} $|$
+    \href{https://scriptr.dev/}{\underline{www.scriptr.dev}}
+\end{center}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+  
+    \resumeSubheading
+      {Senior Linux Systems Administrator - Retail DevOps and Hardware}{Feb 2022 -- Present}
+      {O'Reilly Auto Parts}{Remote}
+      \resumeItemListStart
+        \resumeItem{Administered multiple petabyte-scale storage systems and computational infrastructure at scale}
+        \resumeItem{Maintained large-scale distrubuted systems between using Ansible and Terraform}
+        \resumeItem{Creating a query system using Starlite API to allow business users to query Zabbix aggregate data for 14,000 hosts}
+        \resumeItem{Support production Ubuntu/RHEL servers with VMware vSphere, vSAN, Containers, and IaC}
+        \resumeItem{Stack: Python, Django, FastAPI, Bash, MySQL, PostreSQL, Terraform, Ansible, Vagrant, Agile, Atlassian, Jenkins}
+      \resumeItemListEnd
+      
+    \resumeSubheading
+      {IT Specialist - IT Infrastructure and Business Continuity}{Mar 2018 -- Feb 2022}
+      {Labcorp}{Remote}
+      \resumeItemListStart
+        \resumeItem{Developed automation with Python, Powershell, and Ansible for issues and tasks resulting in less downtime}
+        \resumeItem{Planned, led, and deployed unique solutions for new clients resulting in millions in revenue gain}
+        \resumeItem{Implemented new active directory GPO structure allowing for endpoint deployment automation}
+        \resumeItem{Supported Windows Servers (2012-2019), Networks, Active Directory, Group Policy, and end-user computers}
+        \resumeItem{Deployed and maintained Linux servers and Docker containers, respectively}
+        \resumeItem{Managed networks using tools like Cisco ISE, Infoblox IPAM, Velocloud Orchestrator, and the Meraki dashboard}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing %pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Xpress Order Management} $|$ \emph{Web app for pathologists across the nation to order tests}}{January 2022 -- Present}
+          \resumeItemListStart
+            \resumeItem{Developed and deployed multi-environment (Dev/QA/Prod) Flask web app}
+            \resumeItem{Integrated LDAP and OAuth authentication, registration, tiered permissions, and password reset}
+            \resumeItem{Implemented scalable deployment with NGINX, Gunicorn, and Docker}
+            \resumeItem{Utilized Bootstrap along with Jinja2 to dynamically update the data and UI}
+            \resumeItem{Designed complex databases with SQLite, PostgreSQL, order data, and permissions}
+            \resumeItem{Building reporting dashboard for national teams to understand their workloads, business cost, and patient data}
+          \resumeItemListEnd
+          \resumeProjectHeading
+          {\textbf{Homelab} $|$ \emph{VMWare vSphere, Active Directory, Linux,  Docker, Azure}}{May 2018 -- Present}
+          \resumeItemListStart
+            \resumeItem{Designed, deployed, and maintained production-level systems solely for the purpose of learning more about them}
+            \resumeItem{Designed systems around hardware constrains (Dell R510, R620, R430s) in a highly available 8 node cluster utilizing vSphere, IPMI, Reverse Proxy with NGINX, and container deployment and management}
+            \resumeItem{Implemented Docker containerization for individual services with source-controlled configuration}
+            \resumeItem{Designed networks with multiple VLANs for segmentation of services such as IoT, Servers, End Users, and Security}
+            \resumeItem{Automated various deployments using Powershell, Bash, Ansible, and Terraform}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, Bash, Powershell} \\
+     \textbf{Frameworks / Tech}{: Django, Starlite, Flask, Jinja2, OAuth, PostgreSQL} \\
+     \textbf{Other Tools}{: Git, Docker, LXD/LXC, NGINX, Ansible, Azure, AWS} \\
+     \textbf{OS}{: Windows Server 2012-2022, Ubuntu Server, Red Hat Server (RHEL/CentOS/Rocky Linux)} \\
+     \textbf{Software}{: Jetbrains Tools, VMWare vSphere, ESXi, Proxmox, Hyper-V, GPO, ServiceNow, SCCM, Citrix} \\
+     \textbf{Things I'm Currently Learning}{: Kubernetes, Rancher (Harvester, k3s) Jenkins, Terraform, Rust}
+    }}
+ \end{itemize}
+
+ %-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+      {Auburn University} {Auburn, AL}
+      {Bachelor of Computer Science}{May 2026 (Expected)}
+    \resumeSubheading
+      {Wallace State Community College} {Hanceville, AL}
+      {Associate of Science in Computer Science}{May 2023 (Expected)}
+  \resumeSubHeadingListEnd
+  
+ %-----------Clubs-----------
+\section{Clubs and Organizations}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{School Clubs}{: Auburn AI Club, Auburn Ethical Hacking Club, Auburn ACM Group} \\
+     \textbf{Industry Organizations}{: ACM, IEEE} \\
+    }}
+ \end{itemize}
+
+%-----------Honors-----------
+% \section{Honors and Other}
+%  \begin{itemize}[leftmargin=0.15in, label={}]
+%     \small{\item{
+%      \textbf{Honors}{: President's List (Wallace State Community College)} \\
+%      \textbf{Certifications}{: OSHA 10 Certified and BLS (American Heart Association) Certified} \\
+%      \textbf{Service}{: Birmingham Heart Walk Contributor and Participant for 2018 - Current} \\
+%     }}
+%  \end{itemize}
+
+%-------------------------------------------
+\end{document}
