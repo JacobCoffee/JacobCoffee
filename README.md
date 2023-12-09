@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Website%20%20&style=for-the-badge&url=https%3A%2F%2Fscriptr.dev)](http://scriptr.dev)
 [![LinkedIn](https://img.shields.io/website?color=blue&label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/JacobCoffee/)
-[![Discord](https://img.shields.io/discord/267624335836053506?color=5865F2&label=Discord%20-%20Find%20Me%20Here&logo=Discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/pydis)
+[![Discord](https://img.shields.io/discord/919193495116337154?color=5865F2&label=Discord%20-%20Find%20Me%20Here&logo=Discord&logoColor=5865F2&style=for-the-badge)]([https://discord.gg/pydis](https://discord.gg/litestar-919193495116337154))
 
 ## I'm a Father, Lifelong Student, and Developer!
 
@@ -11,24 +11,15 @@
 * 👯   Looking to collaborate with other developers.
 * 🧐   Interested in DevOps, Automation, Cloud and Distributed Computing. 
 * 💼   DevOps & System Engineering @ [O'Reilly Auto][work].
-* 🎓   Studying Computer Science at [Auburn University][school] and Wallace State 
+* 🎓   Eternal Computer Science Student
 * 📚   Reading [How's the Culture in Your Kingdom?][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily-driver OS.
 * 🎉   Student Member of [ACM][acm] / [IEEE][ieee].
 * ⚡   Fun fact: I maintain an uncomfortably large on-prem [homelab][homelab].
 
-## Current Languages and Tools:
 <p align="center">
   <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,regex,js,git,github,html,css&theme=dark" />
-  </a>
-</p>
-
-## Language and Tools to Learn Soon:
-<p align="center">
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=rust,kubernetes,ts,go&theme=dark" />
-
+    <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,regex,js,git,github,html,css,rust,kubernetes,ts,go&theme=dark" />
   </a>
 </p>
 
