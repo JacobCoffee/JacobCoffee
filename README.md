@@ -9,25 +9,17 @@
 * 🌱   Currently working with Python, Javascript, Bash, and learning Rust.
 * 🌟   Contributing to the [Litestar Python Framework][litestar]
 * 👯   Looking to collaborate with other developers.
-* 🧐   Interested in DevOps, Automation, Cloud and Distributed Computing. 
+* 🧐   Interested in DevOps, Automation, Cloud and Distributed Computing.
 * 💼   DevOps & System Engineering @ [O'Reilly Auto][work].
-* 🎓   Eternal Computer Science Student
+* 🎓   Lifelong Learner & Computer Science Student
 * 📚   Reading [How's the Culture in Your Kingdom?][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily-driver OS.
-* 🎉   Student Member of [ACM][acm] / [IEEE][ieee].
 * ⚡   Fun fact: I maintain an uncomfortably large on-prem [homelab][homelab].
 
 <p align="center">
   <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
     <img src="https://skillicons.dev/icons?i=linux,py,django,fastapi,tailwind,ansible,grafana,nginx,jenkins,java,powershell,bash,visualstudio,vscode,vim,azure,aws,redis,postgres,docker,regex,js,git,github,html,css,rust,kubernetes,ts,go&theme=dark" />
   </a>
-</p>
-
-<br />
-
-<p align="center">
-<a href= "mailto:jacobcoffee@acm.org"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "mailto:jcoffee@ieee.org"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 </p>
 
 <br />
