@@ -7,10 +7,10 @@
 ## I'm a Father, Lifelong Student, and Developer!
 
 * 🌱   Currently working with Python, Javascript, Bash, and learning Rust.
-* 🌟   Contributing to the [Litestar Python Framework][litestar]
+* 🌟   Contributing to the [Litestar Python Framework][litestar] and other [Litestar Organization projects][litestar-org]
 * 👯   Looking to collaborate with other developers.
 * 🧐   Interested in DevOps, Automation, Cloud and Distributed Computing.
-* 💼   DevOps & System Engineering @ [O'Reilly Auto][work].
+* 💼   DevOps & System Engineering @ (soon) [the PSF][work-new] and [O'Reilly Auto][work-old]
 * 🎓   Lifelong Learner & Computer Science Student
 * 📚   Reading [How's the Culture in Your Kingdom?][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily-driver OS.
@@ -32,8 +32,10 @@
 [book]: https://www.goodreads.com/book/show/53382181-how-s-the-culture-in-your-kingdom
 [os]: https://pop.system76.com/
 [school]: http://bulletin.auburn.edu/undergraduate/samuelginncollegeofengineering/departmentofcomputerscienceandsoftwareengineering/
-[work]: https://corporate.oreillyauto.com/
+[work-old]: https://corporate.oreillyauto.com/
+[work-new]: https://www.python.org/psf-landing/
 [ieee]: mailto:jcoffee@ieee.org
 [acm]: mailto:jacobcoffee@acm.org
 [homelab]: https://www.reddit.com/r/homelab
 [litestar]: https://litestar.dev/
+[litestar-org]: https://github.com/litestar-org/
