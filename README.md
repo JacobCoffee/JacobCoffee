@@ -10,7 +10,7 @@
 * 🌟   Contributing to the [Litestar Python Framework][litestar] and other [Litestar Organization projects][litestar-org]
 * 👯   Looking to collaborate with other developers.
 * 🧐   Interested in DevOps, Automation, Cloud and Distributed Computing.
-* 💼   DevOps & Infrastructure Engineering @ [the PSF][work-new] and [O'Reilly Auto][work-old]
+* 💼   DevOps & Infrastructure Engineering @ [the PSF][work-new]
 * 🎓   Lifelong Learner & Computer Science Student
 * 📚   Reading [How's the Culture in Your Kingdom?][book].
 * 💻   Currently enjoying [Pop!_OS][os] as my daily-driver OS.
