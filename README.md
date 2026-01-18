@@ -43,21 +43,21 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
     </td>
     <td align="center" width="200" valign="bottom">
       <a href="https://github.com/python/cpython">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="Python"/><br>
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="65" alt="Python"/><br>
         <sub><b>cpython</b></sub>
       </a><br>
       <sub>triager</sub>
     </td>
     <td align="center" width="200" valign="bottom">
       <a href="https://github.com/python/pythondotorg">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="Python"/><br>
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="65" alt="Python"/><br>
         <sub><b>python.org</b></sub>
       </a><br>
       <sub>maintainer</sub>
     </td>
     <td align="center" width="200" valign="bottom">
       <a href="https://github.com/pypi/warehouse">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="PyPI"/><br>
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="65" alt="PyPI"/><br>
         <sub><b>warehouse (PyPI)</b></sub>
       </a><br>
       <sub>maintainer</sub>
@@ -108,5 +108,5 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 ---
 
 <p align="center">
-  <a href="https://scriptr.dev">scriptr.dev</a> · <a href="https://scriptr.dev/talks">talks</a> · <a href="https://scriptr.dev/blog">blog</a> · <a href="https://app.thestorygraph.com/profile/jlcoffee">storygraph</a>
+  <a href="https://scriptr.dev">scriptr.dev</a> · <a href="https://scriptr.dev/talks">talks</a> · <a href="https://scriptr.dev/blog">blog</a> · <a href="https://app.thestorygraph.com/profile/jlcoffee">storygraph</a> · <a href="https://github.com/sponsors/JacobCoffee">sponsor</a>
 </p>
