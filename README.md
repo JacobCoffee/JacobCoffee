@@ -34,37 +34,37 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="bottom">
       <a href="https://github.com/litestar-org/litestar">
-        <img src="https://raw.githubusercontent.com/litestar-org/branding/main/assets/Branding%20-%20PNG%20-%20Transparent/Badge%20-%20Blue%20and%20Yellow.png" width="50" alt="Litestar"/><br>
+        <img src="https://raw.githubusercontent.com/litestar-org/branding/main/assets/Branding%20-%20PNG%20-%20Transparent/Badge%20-%20Blue%20and%20Yellow.png" height="65" alt="Litestar"/><br>
         <sub><b>litestar</b></sub>
       </a><br>
       <sub>core maintainer</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="bottom">
       <a href="https://github.com/python/cpython">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" width="50" alt="Python"/><br>
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="Python"/><br>
         <sub><b>cpython</b></sub>
       </a><br>
       <sub>triager</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="bottom">
       <a href="https://github.com/python/pythondotorg">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" width="50" alt="Python"/><br>
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="Python"/><br>
         <sub><b>python.org</b></sub>
       </a><br>
       <sub>maintainer</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="bottom">
       <a href="https://github.com/pypi/warehouse">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" width="50" alt="PyPI"/><br>
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=80&v=4" height="65" alt="PyPI"/><br>
         <sub><b>warehouse (PyPI)</b></sub>
       </a><br>
       <sub>maintainer</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="bottom">
       <a href="https://github.com/PyCon/pycon-site">
-        <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" width="50" alt="PyCon"/><br>
+        <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" height="65" alt="PyCon"/><br>
         <sub><b>pycon-site</b></sub>
       </a><br>
       <sub>maintainer</sub>
