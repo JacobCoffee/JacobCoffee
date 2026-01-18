@@ -30,7 +30,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 ---
 
-### `# open_source`
+### `# ~/oss.py`
 
 <table>
   <tr>
@@ -72,13 +72,13 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
   </tr>
 </table>
 
-### `# stack`
+### `# ~/stack.py`
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,bash,react,kubernetes,docker,terraform,aws,gcp,postgres,redis,linux&perline=12" alt="Tech Stack" />
 </p>
 
-### `# currently`
+### `# ~/main.py`
 
 ```python
 >>> jacob.__dict__
@@ -100,7 +100,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 }
 ```
 
-### `# reading`
+### `# ~/reading.py`
 
 <a href="https://app.thestorygraph.com/books/0c396b96-f96b-4a33-99c4-8eed9dd46f71"><img src="https://img.shields.io/badge/Dungeon_Crawler_Carl-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Dungeon Crawler Carl"></a>
 <a href="https://app.thestorygraph.com/books/352a17da-95a2-4c32-b5ad-4ef350e7b121"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
