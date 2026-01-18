@@ -18,7 +18,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 ---
 
-### `# OPEN_SOURCE`
+### `# open_source`
 
 <table>
   <tr>
@@ -60,12 +60,39 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
   </tr>
 </table>
 
-### `# STACK`
+### `# stack`
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,bash,react,kubernetes,docker,terraform,aws,gcp,postgres,redis,linux&perline=12" alt="Tech Stack" />
 </p>
 
+### `# currently`
+
+```python
+>>> jacob.__dict__
+{
+    "role": "infrastructure engineer @ psf",
+    "stack": ["python", "typescript", "bash", "learning rust"],
+    "focus": ["devops", "automation", "cloud", "distributed systems"],
+    "side_quest": "an uncomfortably large on-prem homelab",
+    "location": "birmingham, al",
+}
+
+>>> from jacob import open_source
+>>> pprint(open_source)
+{
+    "litestar-org": "core maintainer — litestar, polyfactory, advanced-alchemy, sqlspec",
+    "cpython": "triager — infrastructure, CI, devops",
+    "pythondotorg": "maintainer — python.org",
+    "pycon-site": "maintainer — us.pycon.org",
+}
+```
+
+### `# reading`
+
+<a href="https://app.thestorygraph.com/books/0c396b96-f96b-4a33-99c4-8eed9dd46f71"><img src="https://img.shields.io/badge/Dungeon_Crawler_Carl-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Dungeon Crawler Carl"></a>
+<a href="https://app.thestorygraph.com/books/352a17da-95a2-4c32-b5ad-4ef350e7b121"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
+
 ---
 
-<sub>birmingham, al · infrastructure · homelab · [scriptr.dev/cv](https://scriptr.dev/cv)</sub>
+<sub>[scriptr.dev](https://scriptr.dev) · [talks](https://scriptr.dev/talks) · [blog](https://scriptr.dev/blog) · [storygraph](https://app.thestorygraph.com/profile/jlcoffee)</sub>
