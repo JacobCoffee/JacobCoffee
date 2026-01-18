@@ -107,4 +107,6 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 ---
 
-<sub>[scriptr.dev](https://scriptr.dev) · [talks](https://scriptr.dev/talks) · [blog](https://scriptr.dev/blog) · [storygraph](https://app.thestorygraph.com/profile/jlcoffee)</sub>
+<p align="center">
+  <a href="https://scriptr.dev">scriptr.dev</a> · <a href="https://scriptr.dev/talks">talks</a> · <a href="https://scriptr.dev/blog">blog</a> · <a href="https://app.thestorygraph.com/profile/jlcoffee">storygraph</a>
+</p>
