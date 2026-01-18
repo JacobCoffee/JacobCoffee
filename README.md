@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://us.pycon.org/2026/">
+    <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" width="120" alt="PyCon US 2026"/>
+  </a>
+  <h3>PyCon US 2026 · Long Beach, CA · May 14-19</h3>
+  <p>
+    <a href="https://us.pycon.org/2026/"><img src="https://img.shields.io/badge/SITE-306998?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Site"></a>
+    <a href="https://us.pycon.org/2026/attend/information/"><img src="https://img.shields.io/badge/REGISTER-ffd43b?style=for-the-badge&logoColor=306998" alt="Register"></a>
+    <a href="https://us.pycon.org/2026/sponsorship/why-sponsor/"><img src="https://img.shields.io/badge/SPONSOR-306998?style=for-the-badge&logo=githubsponsors&logoColor=ffd43b" alt="Sponsor"></a>
+  </p>
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=25C8EB&background=00000000&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Infrastructure+Engineer%22%22%22">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B3EA9&background=FFFFFF00&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Infrastructure+Engineer%22%22%22">
@@ -7,8 +21,6 @@
 <br>
 
 Infrastructure Engineer at the **[Python Software Foundation](https://python.org/psf)**. Maintaining critical Python ecosystem services including PyPI, python.org, and PyCon. CPython Core Team triager. Core maintainer of the Litestar organization.
-
-<br>
 
 <p>
   <a href="https://scriptr.dev"><img src="https://img.shields.io/badge/scriptr.dev-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNUM4RUIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSI0IDE3IDEwIDExIDQgNSI+PC9wb2x5bGluZT48bGluZSB4MT0iMTIiIHkxPSIxOSIgeDI9IjIwIiB5Mj0iMTkiPjwvbGluZT48L3N2Zz4=&logoColor=25C8EB" alt="Website"></a>
