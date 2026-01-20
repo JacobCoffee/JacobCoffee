@@ -63,7 +63,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
       <sub>maintainer</sub>
     </td>
     <td align="center" width="200" valign="bottom">
-      <a href="https://github.com/PyCon/pycon-site">
+      <a href="https://us.pycon.org/">
         <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" height="65" alt="PyCon"/><br>
         <sub><b>pycon-site</b></sub>
       </a><br>
