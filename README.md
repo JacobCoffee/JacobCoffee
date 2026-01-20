@@ -2,7 +2,7 @@
   <a href="https://us.pycon.org/2026/">
     <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" width="120" alt="PyCon US 2026"/>
   </a>
-  <h3>PyCon US 2026 · Long Beach, CA · May 14-19</h3>
+  <h3>PyCon US 2026 · Long Beach, CA · May 13-19</h3>
   <p>
     <a href="https://us.pycon.org/2026/"><img src="https://img.shields.io/badge/SITE-306998?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Site"></a>
     <a href="https://us.pycon.org/2026/attend/information/"><img src="https://img.shields.io/badge/REGISTER-ffd43b?style=for-the-badge&logoColor=306998" alt="Register"></a>
