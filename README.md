@@ -102,8 +102,9 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 ### `# ~/reading.py`
 
-<a href="https://app.thestorygraph.com/books/0c396b96-f96b-4a33-99c4-8eed9dd46f71"><img src="https://img.shields.io/badge/Dungeon_Crawler_Carl-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Dungeon Crawler Carl"></a>
-<a href="https://app.thestorygraph.com/books/352a17da-95a2-4c32-b5ad-4ef350e7b121"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
+<a href="https://app.thestorygraph.com/books/3a036979-d62f-4012-9c3f-88f3b5429201"><img src="https://img.shields.io/badge/Dungeon_Crawler_Carl-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Dungeon Crawler Carl"></a>
+<a href="https://app.thestorygraph.com/books/29ee0457-ee9a-44c9-ab8d-6dfea65ead1e"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
+<a href="https://app.thestorygraph.com/books/ae437ef6-b180-48f4-904c-4c6e6e5dfb35"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
 
 ---
 
