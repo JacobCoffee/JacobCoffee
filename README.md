@@ -104,7 +104,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 
 <a href="https://app.thestorygraph.com/books/3a036979-d62f-4012-9c3f-88f3b5429201"><img src="https://img.shields.io/badge/Dungeon_Crawler_Carl-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Dungeon Crawler Carl"></a>
 <a href="https://app.thestorygraph.com/books/29ee0457-ee9a-44c9-ab8d-6dfea65ead1e"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Onyx Storm"></a>
-<a href="https://app.thestorygraph.com/books/ae437ef6-b180-48f4-904c-4c6e6e5dfb35"><img src="https://img.shields.io/badge/Onyx_Storm-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Alchemised"></a>
+<a href="https://app.thestorygraph.com/books/ae437ef6-b180-48f4-904c-4c6e6e5dfb35"><img src="https://img.shields.io/badge/Alchemised-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Alchemised"></a>
 
 ---
 
