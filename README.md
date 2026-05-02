@@ -13,14 +13,14 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=25C8EB&background=00000000&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Infrastructure+Engineer%22%22%22">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B3EA9&background=FFFFFF00&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Infrastructure+Engineer%22%22%22">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=25C8EB&background=00000000&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Infrastructure+Engineer%22%22%22">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=25C8EB&background=00000000&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Director+of+Engineering%22%22%22">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B3EA9&background=FFFFFF00&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Director+of+Engineering%22%22%22">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=25C8EB&background=00000000&center=false&vCenter=true&repeat=true&width=600&lines=%24+from+psf+import+engineer;class+JacobCoffee%3A;++++%22%22%22Director+of+Engineering%22%22%22">
 </picture>
 
 <br>
 
-Infrastructure Engineer at the **[Python Software Foundation](https://python.org/psf)**. Maintaining critical Python ecosystem services including PyPI, python.org, and PyCon. CPython Core Team triager. Core maintainer of the Litestar organization.
+Director of Engineering at the **[Python Software Foundation](https://python.org/psf)**. Maintaining critical Python ecosystem services including PyPI, python.org, and PyCon. CPython Core Team triager. Core maintainer of the Litestar organization.
 
 <p>
   <a href="https://scriptr.dev"><img src="https://img.shields.io/badge/scriptr.dev-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNUM4RUIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSI0IDE3IDEwIDExIDQgNSI+PC9wb2x5bGluZT48bGluZSB4MT0iMTIiIHkxPSIxOSIgeDI9IjIwIiB5Mj0iMTkiPjwvbGluZT48L3N2Zz4=&logoColor=25C8EB" alt="Website"></a>
@@ -83,7 +83,7 @@ Infrastructure Engineer at the **[Python Software Foundation](https://python.org
 ```python
 >>> jacob.__dict__
 {
-    "role": "infrastructure engineer @ psf",
+    "role": "director of engineering @ psf",
     "stack": ["python", "typescript", "bash", "learning rust"],
     "focus": ["devops", "automation", "cloud", "distributed systems"],
     "side_quest": "an uncomfortably large on-prem homelab",
