@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://us.pycon.org/2026/">
     <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" width="120" alt="PyCon US 2026"/>
   </a>
@@ -8,7 +8,7 @@
     <a href="https://us.pycon.org/2026/attend/information/"><img src="https://img.shields.io/badge/REGISTER-ffd43b?style=for-the-badge&logoColor=306998" alt="Register"></a>
     <a href="https://us.pycon.org/2026/sponsorship/why-sponsor/"><img src="https://img.shields.io/badge/SPONSOR-306998?style=for-the-badge&logo=githubsponsors&logoColor=ffd43b" alt="Sponsor"></a>
   </p>
-</div>
+</div> -->
 
 ---
 
